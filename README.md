@@ -2,7 +2,7 @@
 
 This repository is a collection of [Jupyter](https://jupyter.org/) consisting on the training of different models for depression assesment
 
-The whole code, is the result of a final Master's Thesis of the [Master's Degree in Artificial Intelligence](http://www.upc.edu/master/fitxa_master.php?id_estudi=50&lang=esp) supervised by Jordi Vitrià, Javi Jiménez and Alberto coca. The report is published in this repository as well. 
+The whole code, is the result of a final Master's Thesis of the [Master's Degree in Artificial Intelligence](http://www.upc.edu/master/fitxa_master.php?id_estudi=50&lang=esp) supervised by Jordi Vitrià, and from AcceXible, Javi Jiménez and Alberto Coca. The report is published in this repository as well. 
 
 ## Abstract 
 
