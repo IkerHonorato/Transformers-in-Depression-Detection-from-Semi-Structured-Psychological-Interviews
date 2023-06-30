@@ -2,7 +2,24 @@
 
 This repository is a collection of [Jupyter](https://jupyter.org/) consisting on the training of different models for depression assesment
 
-The whole code, is the result of a final Master's Thesis of the [Master's Degree in Artificial Intelligence](http://www.upc.edu/master/fitxa_master.php?id_estudi=50&lang=esp) supervised by Jordi Vitrià, PhD. The report is published in this repository as well. 
+The whole code, is the result of a final Master's Thesis of the [Master's Degree in Artificial Intelligence](http://www.upc.edu/master/fitxa_master.php?id_estudi=50&lang=esp) supervised by Jordi Vitrià, Javi Jiménez and Alberto coca. The report is published in this repository as well. 
+
+## Abstract 
+
+The expansive adoption of Transformer models across the Machine Learning land-
+scape is undeniable, and health is not an exception. This study undertakes a rigorous
+exploration of the efficacy of these novel architectures in discerning depression in-
+dicators from semi-structured psychological interviews. A key focus of this study
+is the extrapolation of the pre-training knowledge inherent in these models, and the
+comparison with traditional state-of-the-art Machine Learning models. In doing so,
+the thesis proposes a comprehensive framework designed to facilitate objective com-
+parison. The study extends its inquiry into the differential performance of text and
+speech modalities, in isolation and combination, within the context of depression
+detection. Moreover, this research delves into the importance of topical relevance
+in the detection process, culminating in an evaluative discussion of crucial themes
+integral to accurate depression detection. Ultimately, this thesis contributes to the
+deepening understanding of the complex interplay between Transformer models,
+modality use, and topic importance in the realm of depression detection.
 
 
 ## License
